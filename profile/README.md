@@ -1,8 +1,14 @@
 # A simple, but very engaging and social game for groups
 
-*Tap mine, I'll tap yours!*
+__*Tap mine, I'll tap yours!*__
 
 [`LEDswarm`](https://github.com/LEDswarm) is a game where a group of people each hold a green light, which turns red if it is moved too quickly. The goal is to keep your own light green while pushing (softly) on the other light rods to make them red. Being green or red determines if you're still in the round or not.
+
+# Game Modes
+
+* ### Territory
+
+All players are divided into two or more groups and each group is assigned a color. To take over territory, get your own controller within ten centimeters range of another, and it will take on the color of yours. The game is finished and a winner may be declared when all controllers have the same color. (*Do we need NFC for this? And if a group needs 100% of all territory to win, will those games ever end?*)
 
 # Round
 
