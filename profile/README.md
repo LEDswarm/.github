@@ -8,7 +8,7 @@ __*Tap mine, I'll tap yours!*__
 
 * ### Territory
 
-All players are divided into two or more groups and each group is assigned a color. To take over territory, get your own controller within ten centimeters range of another, and it will take on the color of yours. The game is finished and a winner may be declared when all controllers have the same color. (*Do we need NFC for this? And if a group needs 100% of all territory to win, will those games ever end?*)
+All players are divided into two or more groups and each group is assigned a color. To take over territory, get your own controller within ten centimeters range of another, and it will take on the color of yours. The game is finished and a winner may be declared when all controllers have the same color. (*Do we need NFC for this? And if a group needs 100% of all territory to win, will those games ever end?* __*Infrared to the rescue!!*__)
 
 # Round
 
