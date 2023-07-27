@@ -1,4 +1,4 @@
-# A simple, but very engaging and social game for groups
+# A simple, but very engaging social game for groups
 
 ![header](https://ghoust.s3.fr-par.scw.cloud/IMG_20230125_191307~2.jpg)
 
