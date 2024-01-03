@@ -1,4 +1,4 @@
-![breadboard prototype illustration](https://ghoust.s3.fr-par.scw.cloud/swarm_prototype_banner3.png)
+![breadboard prototype illustration](https://ghoust.s3.fr-par.scw.cloud/swarm_prototype_banner4.png)
 
 # A simple, but very engaging social game for groups
 
