@@ -1,8 +1,6 @@
+![breadboard prototype illustration](https://ghoust.s3.fr-par.scw.cloud/swarm_prototype_banner3.png)
+
 # A simple, but very engaging social game for groups
-
-![breadboard prototype illustration](https://ghoust.s3.fr-par.scw.cloud/swarm_prototype_banner2.png)
-
-<!--![header](https://ghoust.s3.fr-par.scw.cloud/IMG_20230125_191307~2.jpg)-->
 
 __*Tap mine, I'll tap yours!*__
 
