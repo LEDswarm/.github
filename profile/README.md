@@ -4,7 +4,7 @@
 
 __*Tap mine, I'll tap yours!*__
 
-[`LEDswarm`](https://github.com/LEDswarm) is a game where a group of people have a controller with an LED light which changes based on how the controller is moved using accelerometer and ultra-wideband data. 
+LEDswarm is an interactive light-based game for groups, with controllers that react to movement, orientation and proximity.
 
 For example, each person may hold a controller with a green light, which turns red if it is moved too quickly. The goal is to keep your own light green while pushing (softly) on the other light rods to make them red. Being green or red determines if you're still in the round or not.
 
