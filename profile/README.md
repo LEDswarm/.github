@@ -8,7 +8,7 @@ LEDswarm is an interactive light-based game for groups, with controllers that re
 
 For example, each person may hold a controller with a green light, which turns red if it is moved too quickly. The goal is to keep your own light green while pushing (softly) on the other light rods to make them red. Being green or red determines if you're still in the round or not.
 
-The concept is based [overflo](https://github.com/overflo23)'s [`ghoust`](https://github.com/Ghoust-game/ghoust) game, and especially the Last One Standing game mode is derived from the original version.
+The concept is based on [overflo](https://github.com/overflo23)'s [`ghoust`](https://github.com/Ghoust-game/ghoust) game, and especially the Last One Standing game mode is derived from the original version.
 
 # Game Modes
 
