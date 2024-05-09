@@ -20,8 +20,7 @@ On the technology side, we've decided to use UWB (ultra-wideband) network chips 
 
 * ### Last One Standing
 
-Before the action starts, all lights are blue. 
-The moment when all of them turn green starts the round.
+Random controller glitter in intervals between 2 and 50 milliseconds as flashes of color or cool white, intensifying its rate until at some random point, the game is started and all controller turn green to initiate the first round.
 
 People start moving now, slowly, to avoid turning their own LED red, and move towards other participants to try to move their lights in just the right way to make them red.
 
