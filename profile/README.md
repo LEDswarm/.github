@@ -14,7 +14,7 @@ The concept is based [overflo](https://github.com/overflo23)'s [`ghoust`](https:
 
 * ### Territory
 
-All players are divided into two or more groups and each group is assigned a color. To take over territory, get your own controller within ten centimeters range of another, and it will take on the color of yours. The game is finished and a winner may be declared when all controllers have the same color.
+All players are divided into two or more groups and each group is assigned a color. To take over territory, get close to another controller within a configured range, try to tap it and it will take on the color of yours. The game is finished and a winner may be declared when all controllers have the same color.
 
 On the technology side, we've decided to use UWB (ultra-wideband) network chips to do precise location tracking, which we need to discern which controller is actually closest to the current one, and combined with accelerometer data, we can accurately identify the team of the controller which most probably pushed this one.
 
